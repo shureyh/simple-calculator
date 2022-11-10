@@ -130,7 +130,7 @@ button#equal{
 .calculator.dark{
   background-color: #071115;
 }
-.calculator.dark#display{
+.calculator.dark #display{
   color: #f8fafd;
 }
 .calculator button#clear{
